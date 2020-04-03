@@ -6,6 +6,7 @@ variable "rg-name" {
   type    = string
   default = "azeus-kubaks-rg"
 }
+
 variable "clustername" {
   type    = string
   default = "kubaks"
